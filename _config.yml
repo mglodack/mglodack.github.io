@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Mathew Glodack
+bio: My dreams are big, my goals are bigger, and my achievements never stop!
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -10,8 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+url: http://mglodack.github.io
 
 permalink: /:title/
 
@@ -29,21 +28,21 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: slodack
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-stackoverflow: 7044681/mystackoverflow
-quora: userquora
-reddit: username
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+# youtube: myyoutube
+# spotify: myspotify
+github: mglodack
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+# medium: medium
+# vimeo: myvimeo
+# email: myemail@gmail.com
 
 authors:
     johndoe:
