@@ -3,5 +3,5 @@ _config.yml
 _site/*
 *Thumbs.db
 .sass-cache
-.npm-debug.log
+npm-debug.log
 Gemfile.lock
