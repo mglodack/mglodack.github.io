@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-url: blog.glodack.com
+url: mglodack.github.io
 
 permalink: /:title/
 
